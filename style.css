@@ -1271,6 +1271,11 @@ form span b:hover {
         background-position: 55%
     }
 
+    .logo{
+        width: 100px;
+        height: 40px;
+    }
+
     h1 {
         font-size: 38px;
     }
